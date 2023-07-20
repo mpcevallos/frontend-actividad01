@@ -1,3 +1,0 @@
-Enlace al repositorio de GitHub:
-
-https://github.com/mpcevallos/frontend-actividad01
